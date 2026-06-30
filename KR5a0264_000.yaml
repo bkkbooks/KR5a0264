@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR5a0264/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 修真十書雜著指玄篇
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-28 23:43:36.765182'
+  source:
+    repository: kanripo
+    path: KR5a0264/KR5a0264_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:fda442c1b7e54274e861f1b823c764b569ffecf868e4fcc4b83515f2e0f002a7
